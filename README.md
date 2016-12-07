@@ -28,3 +28,5 @@ Compile and run the speedtest - requires the files speedtest1.txt and speedtest2
 송용호 작업 추가
 
 다시 추가
+
+lib에서 변경
